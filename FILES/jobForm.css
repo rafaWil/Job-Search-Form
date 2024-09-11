@@ -11,4 +11,11 @@
     width: 50%;
     height: 85px;
     margin-top: 30px;
+    text-align: center;
+    line-height: 85px;
+}
+
+.ArrowBox span {
+    text-transform: uppercase;
+    font-size: 40px;
 }
