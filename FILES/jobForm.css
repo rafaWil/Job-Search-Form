@@ -9,6 +9,10 @@ html {
     font-family: "Montserrat", sans-serif;
 }
 
+header {
+    position: relative;
+}
+
 /* Style in arrow blue box */
 .ArrowBox {
     background-color: rgb(11, 11, 105);
@@ -31,3 +35,17 @@ html {
 }
 
 /* Style in logo icon */
+.logo_container {
+    width: 22%; /* ajuste o tamanho do logo */
+    height: 22%; /* ajuste o tamanho do logo */
+    position: absolute; /* adicionou essa propriedade para posicionar o logo absolutamente */
+    top: 0; /* posiciona o logo no topo do header */
+    right: 0; /* posiciona o logo no lado direito do header */
+}
+
+/* Style in logo icon image */
+img {
+    width: 40%;
+    height: auto;
+    margin-right: 50%;
+}
