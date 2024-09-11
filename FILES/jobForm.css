@@ -25,3 +25,11 @@ html {
     font-size: 40px;
     color: rgb(202, 202, 8);
 }
+
+/* Style in logo icon */
+.Logo_Icon {
+    width: 40px;
+    height: 40px;
+    margin-right: 10px;
+    vertical-align: middle;
+}
