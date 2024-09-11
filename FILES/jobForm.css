@@ -39,7 +39,7 @@ header {
     width: 22%; /* ajuste o tamanho do logo */
     height: 22%; /* ajuste o tamanho do logo */
     position: absolute; /* adicionou essa propriedade para posicionar o logo absolutamente */
-    top: 0; /* posiciona o logo no topo do header */
+    top: -10px; /* posiciona o logo no topo do header */
     right: 0; /* posiciona o logo no lado direito do header */
 }
 
