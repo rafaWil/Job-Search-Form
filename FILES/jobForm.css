@@ -83,5 +83,10 @@ img:hover {
 form {
     display: block;
     margin-top: 20px;
-    margin-left: 9%;
+    margin-left: 11%;
+}
+
+.First_name {
+    color: rgb(11, 11, 105);
+    font-size: 20px;
 }
