@@ -128,3 +128,9 @@ form {
     margin-bottom: 15px;
     vertical-align: middle;
 }
+
+/* Style in date of birth */
+.date_birth {
+    font-size: 20px;
+    color: rgb(11, 11, 105);
+}
