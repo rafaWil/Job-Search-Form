@@ -57,6 +57,11 @@ img:hover {
     transform: scale(1.2);
 }
 
+.Top_Title {
+    position: relative;
+    display: flex;
+}
+
 /* Orange Box - MINI */
 .Mini_box {
     width: 2%;
