@@ -56,3 +56,11 @@ img {
 img:hover {
     transform: scale(1.2);
 }
+
+/* Orange Box - MINI */
+.Mini_box {
+    width: 2%;
+    height: 35px;
+    background-color: rgb(248, 170, 1);
+    margin-top: 25px;
+}
