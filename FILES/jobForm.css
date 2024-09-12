@@ -79,3 +79,9 @@ img:hover {
     font-weight: bolder;
     color: rgb(11, 11, 105);
 }
+
+form {
+    display: block;
+    margin-top: 20px;
+    margin-left: 9%;
+}
