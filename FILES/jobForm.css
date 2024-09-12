@@ -90,3 +90,11 @@ form {
     color: rgb(11, 11, 105);
     font-size: 20px;
 }
+
+#First_name {
+    width: 35%;
+    height: 30px;
+    text-transform: uppercase;
+    border: 1px solid rgb(11, 11, 105);
+    margin-top: 12px;
+}
