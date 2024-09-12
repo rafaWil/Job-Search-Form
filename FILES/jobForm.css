@@ -49,4 +49,10 @@ img {
     width: 40%;
     height: auto;
     margin-right: 50%;
+    transition: all 0.7s;
+}
+
+/* Style when move cursor in image logo */
+img:hover {
+    transform: scale(1.2);
 }
