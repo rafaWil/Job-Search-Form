@@ -43,7 +43,28 @@
 
         <!--Div for form-->
         <form action="" method="post">
-            
+            <label for="name">First Name</label>
+            <input type="text" id="name" name="name" required>
+    
+            <label>Gender</label>
+            <div class="gender">
+                <label for="male">
+                    <input type="radio" id="male" name="gender" value="male" required> Male
+                </label>
+                <label for="female">
+                    <input type="radio" id="female" name="gender" value="female" required> Female
+                </label>
+            </div>
+    
+            <label for="dob">Date of Birth</label>
+                <input type="date" id="dob" name="dob" required>
+    
+            <label for="address">Endereço:</label>
+                <input type="text" id="address" name="address" required>
+    
+            <label for="city">Cidade:</label>
+                <input type="text" id="city" name="city" required>
+    
         </form>
 
     </main>
