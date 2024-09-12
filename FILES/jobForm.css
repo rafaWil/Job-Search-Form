@@ -108,3 +108,23 @@ form {
     margin-top: 20px; /* ajuste o valor para o espaço desejado */
     display: block;
 }
+
+/* Style in male and female buttons */
+#male {
+    width: 28px;
+    height: 35px;
+    margin-top: 12px;
+    margin-right: 10px;
+    margin-bottom: 15px;
+    vertical-align: middle;
+}
+
+#female {
+    width: 28px;
+    height: 35px;
+    margin-top: 12px;
+    margin-left: 9%;
+    margin-right: 10px;
+    margin-bottom: 15px;
+    vertical-align: middle;
+}
