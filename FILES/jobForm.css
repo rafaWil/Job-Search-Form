@@ -323,3 +323,24 @@ form {
     font-weight: bolder;
     color: rgb(11, 11, 105);
 }
+
+/* Style in title Course */
+.Course {
+    color: rgb(11, 11, 105);
+    font-size: 20px;
+    margin-left: 11%;
+    padding: 10px;
+}
+
+/* Style in field form in part about Course */
+#course {
+    width: 73%;
+    height: 40px;
+    text-transform: uppercase;
+    border: 1px solid rgb(11, 11, 105);
+    margin-top: 12px;
+    margin-bottom: 20px;
+    margin-left: 12%;
+    padding: 10px;
+    color: rgb(2, 2, 73);
+}
