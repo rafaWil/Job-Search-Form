@@ -80,10 +80,17 @@ img:hover {
     color: rgb(11, 11, 105);
 }
 
+.form_container {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-between;
+    width: 80%;
+}
+
 form {
-    display: block;
+    width: 100%;
     margin-top: 20px;
-    margin-left: 11%;
+    margin-left: 14%;
 }
 
 /* Style in title first name */
@@ -94,7 +101,7 @@ form {
 
 /* Style in field form in part about first name */
 #First_name {
-    width: 35%;
+    width: 50%;
     height: 30px;
     text-transform: uppercase;
     border: 1px solid rgb(11, 11, 105);
@@ -140,7 +147,7 @@ form {
 /* Style in field date of birth */
 #dob {
     margin-top: 12px;
-    width: 35%;
+    width: 50%;
     height: 30px;
     text-transform: uppercase;
     border: 1px solid rgb(11, 11, 105);
@@ -159,7 +166,7 @@ form {
 /* Style in field address */
 #address {
     margin-top: 12px;
-    width: 35%;
+    width: 50%;
     height: 30px;
     text-transform: uppercase;
     border: 1px solid rgb(11, 11, 105);
@@ -178,7 +185,7 @@ form {
 /* Style in field about city */
 #city {
     margin-top: 12px;
-    width: 35%;
+    width: 50%;
     height: 30px;
     text-transform: uppercase;
     border: 1px solid rgb(11, 11, 105);
