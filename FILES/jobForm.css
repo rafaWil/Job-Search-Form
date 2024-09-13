@@ -7,6 +7,7 @@
 
 html {
     font-family: "Montserrat", sans-serif;
+    background-color: #e4e3e3ee;
 }
 
 header {
@@ -147,7 +148,7 @@ form {
 /* Style in field date of birth */
 #dob {
     margin-top: 12px;
-    width: 85%;
+    width: 90%;
     height: 40px;
     text-transform: uppercase;
     border: 1px solid rgb(11, 11, 105);
@@ -166,7 +167,7 @@ form {
 /* Style in field address */
 #address {
     margin-top: 12px;
-    width: 85%;
+    width: 90%;
     height: 40px;
     text-transform: uppercase;
     border: 1px solid rgb(11, 11, 105);
@@ -185,7 +186,7 @@ form {
 /* Style in field about city */
 #city {
     margin-top: 12px;
-    width: 85%;
+    width: 90%;
     height: 35px;
     text-transform: uppercase;
     border: 1px solid rgb(11, 11, 105);
