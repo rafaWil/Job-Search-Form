@@ -417,3 +417,10 @@ form {
     color: #fff;
     text-decoration: none;
 }
+
+/* When move cursor in link */
+.developer a:hover {
+    color: rgb(74, 74, 255);
+    font-size: 17px;
+    transition: all 0.8s;
+}
