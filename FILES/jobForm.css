@@ -411,3 +411,9 @@ form {
     font-size: 15px;
     text-transform: uppercase;
 }
+
+/* In Link about my linkedin style */
+.developer a {
+    color: #fff;
+    text-decoration: none;
+}
