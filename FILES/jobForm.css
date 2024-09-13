@@ -396,6 +396,10 @@ form {
     color: rgb(2, 2, 73);
 }
 
+footer {
+    margin-top: 50px;
+}
+
 /* Style in developer in footer */
 .developer {
     background-color: rgb(29, 29, 29);
