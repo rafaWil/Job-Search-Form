@@ -101,7 +101,7 @@ form {
 
 /* Style in field form in part about first name */
 #First_name {
-    width: 85%;
+    width: 90%;
     height: 40px;
     text-transform: uppercase;
     border: 1px solid rgb(11, 11, 105);
@@ -186,10 +186,27 @@ form {
 #city {
     margin-top: 12px;
     width: 85%;
-    height: 40px;
+    height: 35px;
     text-transform: uppercase;
     border: 1px solid rgb(11, 11, 105);
     padding: 10px;
     font-size: 15px;
     margin-bottom: 20px;
+}
+
+/* Style in title Last name */
+.Last_name {
+    color: rgb(11, 11, 105);
+    font-size: 20px;
+}
+
+/* Style in field form in part about Last name */
+#Last_name {
+    width:  95%;
+    height: 40px;
+    text-transform: uppercase;
+    border: 1px solid rgb(11, 11, 105);
+    margin-top: 12px;
+    padding: 10px;
+    color: rgb(2, 2, 73);
 }
