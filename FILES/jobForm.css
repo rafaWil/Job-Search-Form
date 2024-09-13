@@ -395,3 +395,19 @@ form {
     padding: 10px;
     color: rgb(2, 2, 73);
 }
+
+/* Style in developer in footer */
+.developer {
+    background-color: rgb(29, 29, 29);
+    color: #fff;
+    width: 100%;
+    height: 40px;
+    padding: 10px;
+    text-align: center;
+}
+
+
+.developer span {
+    font-size: 15px;
+    text-transform: uppercase;
+}
