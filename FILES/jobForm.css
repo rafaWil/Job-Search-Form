@@ -208,6 +208,61 @@ form {
     text-transform: uppercase;
     border: 1px solid rgb(11, 11, 105);
     margin-top: 12px;
+    margin-bottom: 20px;
+    padding: 10px;
+    color: rgb(2, 2, 73);
+}
+/* 
+ ------------------------------
+
+*/
+/* Style in title Phone */
+.Phone_title {
+    color: rgb(11, 11, 105);
+    font-size: 20px;
+}
+
+/* Style in field form in part about Phone */
+#phone {
+    width:  95%;
+    height: 40px;
+    text-transform: uppercase;
+    border: 1px solid rgb(11, 11, 105);
+    margin-top: 12px;
+    padding: 10px;
+    color: rgb(2, 2, 73);
+}
+
+/* Style in title Last name */
+.Last_name {
+    color: rgb(11, 11, 105);
+    font-size: 20px;
+}
+
+/* Style in field form in part about Last name */
+#Last_name {
+    width:  95%;
+    height: 40px;
+    text-transform: uppercase;
+    border: 1px solid rgb(11, 11, 105);
+    margin-top: 12px;
+    padding: 10px;
+    color: rgb(2, 2, 73);
+}
+
+/* Style in title Last name */
+.Last_name {
+    color: rgb(11, 11, 105);
+    font-size: 20px;
+}
+
+/* Style in field form in part about Last name */
+#Last_name {
+    width:  95%;
+    height: 40px;
+    text-transform: uppercase;
+    border: 1px solid rgb(11, 11, 105);
+    margin-top: 12px;
     padding: 10px;
     color: rgb(2, 2, 73);
 }
