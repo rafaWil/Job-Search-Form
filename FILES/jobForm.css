@@ -202,7 +202,7 @@ form {
 
 /* Style in field form in part about Last name */
 #Last_name {
-    width:  95%;
+    width:  90%;
     height: 40px;
     text-transform: uppercase;
     border: 1px solid rgb(11, 11, 105);
@@ -220,7 +220,7 @@ form {
 
 /* Style in field form in part about Phone */
 #phone {
-    width:  95%;
+    width:  90%;
     height: 40px;
     text-transform: uppercase;
     border: 1px solid rgb(11, 11, 105);
@@ -238,7 +238,7 @@ form {
 
 /* Style in field form in part about Email */
 #email {
-    width:  95%;
+    width: 90%;
     height: 40px;
     text-transform: uppercase;
     border: 1px solid rgb(11, 11, 105);
@@ -256,7 +256,7 @@ form {
 
 /* Style in field form in part about street */
 #street {
-    width:  95%;
+    width: 90%;
     height: 40px;
     text-transform: uppercase;
     border: 1px solid rgb(11, 11, 105);
@@ -274,7 +274,7 @@ form {
 
 /* Style in field form in part about zipCode */
 #zipCode {
-    width:  95%;
+    width: 90%;
     height: 40px;
     text-transform: uppercase;
     border: 1px solid rgb(11, 11, 105);
