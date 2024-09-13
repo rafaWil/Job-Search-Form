@@ -396,6 +396,21 @@ form {
     color: rgb(2, 2, 73);
 }
 
+
+/* Style in button Submit Send */
+.Submit {
+    width: 12%;
+    height: 37px;
+    margin-left: 44%;
+    margin-top: 10px;
+    border-radius: 5px;
+}
+
+.Submit:hover {
+    background-color: rgb(11, 11, 105);
+    color: #fff;
+}
+
 footer {
     margin-top: 50px;
 }
