@@ -186,7 +186,7 @@ form {
 #city {
     margin-top: 12px;
     width: 90%;
-    height: 35px;
+    height: 39px;
     text-transform: uppercase;
     border: 1px solid rgb(11, 11, 105);
     padding: 10px;
@@ -256,6 +256,24 @@ form {
 
 /* Style in field form in part about street */
 #street {
+    width:  95%;
+    height: 40px;
+    text-transform: uppercase;
+    border: 1px solid rgb(11, 11, 105);
+    margin-top: 12px;
+    margin-bottom: 20px;
+    padding: 10px;
+    color: rgb(2, 2, 73);
+}
+
+/* Style in title Zip_Code_title */
+.Zip_Code_title {
+    color: rgb(11, 11, 105);
+    font-size: 20px;
+}
+
+/* Style in field form in part about zipCode */
+#zipCode {
     width:  95%;
     height: 40px;
     text-transform: uppercase;
