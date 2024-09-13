@@ -163,7 +163,6 @@ form {
     height: 30px;
     text-transform: uppercase;
     border: 1px solid rgb(11, 11, 105);
-    margin-top: 12px;
     padding: 10px;
     font-size: 15px;
     color: rgb(1, 1, 54);
@@ -173,5 +172,17 @@ form {
 /* Style in title about city */
 .city_title {
     font-size: 20px;
-    color: rgb(11, 11, 105);
+    color: rgb(11, 11, 105);    
+}
+
+/* Style in field about city */
+#city {
+    margin-top: 12px;
+    width: 35%;
+    height: 30px;
+    text-transform: uppercase;
+    border: 1px solid rgb(11, 11, 105);
+    padding: 10px;
+    font-size: 15px;
+    margin-bottom: 20px;
 }
