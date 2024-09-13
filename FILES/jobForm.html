@@ -47,7 +47,7 @@
 
             <!--Part about FIRST NAME user-->
             <label for="First_name" class="First_name">First Name</label><br>
-            <input type="text" id="First_name" name="name" placeholder="Ex.: Wilson Rafael Gom..." required>
+            <input type="text" id="First_name" name="name" placeholder="Ex.: Wilson ..." required>
             <br>
 
             <!--Part about GENDER user-->
@@ -72,7 +72,7 @@
             <!--ADDRESS-->
             <label for="address" class="address_title">Address</label>
             <br>
-                <input type="text" id="address" name="address" placeholder="Ex.: Street Coffee with Sugar N° 33 in..." required>
+                <input type="text" id="address" name="address" placeholder="Ex.: Area Milkshae with Nutella in..." required>
             <br>
             
             <!--CITY USER-->
@@ -82,14 +82,39 @@
     
         </form>
 
+<!----------------------------------------------------------->
+
         <!--SECOND SECTION - OTHER FORM-->
         <form action="#" method="post">
 
-            <!--Part about FIRST NAME user-->
+            <!--Part about LAST NAME user-->
             <label for="Last_name" class="Last_name">Last Name</label>
             <br>
                 <input type="text" id="Last_name" name="name" placeholder="Ex.: Gomes M..." required>
                 <br>
+            
+            <!--PHONE USER-->
+            <label for="Phone" class="Phone_title">Phone</label> 
+            <br>
+                <input type="tel" id="phone" name="phone" pattern="\([0-9]{2}\) [0-9]{4}-[0-9]{4}" placeholder="(xx) x xxxx-xxxx" required>
+                <br>
+    
+            <!--EMAIL USER-->
+            <label for="email" class="email">email</label>
+            <br>
+                <input type="email" id="email" name="email" placeholder=" EX.: your.email@gma..." required>
+                <br>
+
+            <!--STREET USER-->
+            <label for="street" class="Street_title">Street</label>
+            <br>
+                <input type="text" id="street" name="street" placeholder="Ex.: Street Coffee with Sugar N° 33 in..." required>
+                <br>
+                
+            <!--ZIP CODE USER-->
+            <label for="zip-code" class="Zip_Code_title">City</label>
+            <br>
+                <input type="text" id="zipCode" name="zip-code" placeholder="Ex.: xxxxxx-xxx" required>
 
         </form>
         </div>
