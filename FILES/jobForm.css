@@ -353,3 +353,24 @@ form {
     padding: 10px;
     color: rgb(2, 2, 73);
 }
+
+/* Style in title Company */
+.Company {
+    color: rgb(11, 11, 105);
+    font-size: 20px;
+    margin-left: 11%;
+    padding: 10px;
+}
+
+/* Style in field form in part about Company */
+#company {
+    width: 73%;
+    height: 40px;
+    text-transform: uppercase;
+    border: 1px solid rgb(11, 11, 105);
+    margin-top: 12px;
+    margin-bottom: 20px;
+    margin-left: 12%;
+    padding: 10px;
+    color: rgb(2, 2, 73);
+}
